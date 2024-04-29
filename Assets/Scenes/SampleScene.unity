@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 3294758}
   - component: {fileID: 3294757}
   m_Layer: 0
-  m_Name: MagicCoin (34)
+  m_Name: MLCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -290,12 +290,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 24529840}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 0.9238795, w: -0.38268346}
+  m_LocalPosition: {x: 2.2939014, y: 4.271654, z: 0.629622}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1894439684}
+  m_Father: {fileID: 1500608613}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &24529842
 SpriteRenderer:
@@ -359,7 +359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 26925000}
   m_Layer: 0
-  m_Name: SpikeTrap (7)
+  m_Name: MMSpikeTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -408,11 +408,11 @@ Transform:
   m_GameObject: {fileID: 29536798}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0019999505, y: 0.49361703, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.47946534, z: 0.069186}
+  m_LocalPosition: {x: -5.87, y: -1.211915, z: 0.33298382}
+  m_LocalScale: {x: 0.34593, y: 2.3973267, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 784861426}
+  m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &29536800
 SpriteRenderer:
@@ -622,11 +622,11 @@ Transform:
   m_GameObject: {fileID: 36586863}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalPosition: {x: -6.0850334, y: 2.4036067, z: 1.3920592}
+  m_LocalScale: {x: 0.34592998, y: 4.056416, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1523024943}
+  m_Father: {fileID: 1294091258}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &36586865
 SpriteRenderer:
@@ -842,12 +842,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 44924484}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -13.358999, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 77493204}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &44924486
 SpriteRenderer:
@@ -926,12 +926,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 45239449}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 0.9238795, w: 0.38268346}
+  m_LocalPosition: {x: 2.8416538, y: 4.256098, z: 0.629622}
+  m_LocalScale: {x: 0.34593007, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1355982580}
+  m_Father: {fileID: 1500608613}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &45239451
 SpriteRenderer:
@@ -997,7 +997,7 @@ GameObject:
   - component: {fileID: 46200114}
   - component: {fileID: 46200116}
   m_Layer: 0
-  m_Name: MagicCoin (1)
+  m_Name: LMCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1115,8 +1115,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 46929817}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.0105166, y: 2.9441946, z: -0.18602449}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.8574257, y: -0.83101463, z: 0.09784758}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1127,7 +1127,7 @@ Transform:
   - {fileID: 598586593}
   - {fileID: 1681077789}
   - {fileID: 618906773}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1264429711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &50778585
 GameObject:
@@ -1141,7 +1141,7 @@ GameObject:
   - component: {fileID: 50778588}
   - component: {fileID: 50778587}
   m_Layer: 0
-  m_Name: SkyPlatform (21)
+  m_Name: ULSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1288,8 +1288,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1874917289}
   - {fileID: 149520250}
+  - {fileID: 1612541470}
   - {fileID: 1366723738}
+  - {fileID: 71784951}
   - {fileID: 1829850099}
   m_Father: {fileID: 463222922}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1619,12 +1622,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 71784950}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 11.361, y: 4.168, z: -0.6745366}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1829850099}
+  m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &71784952
 SpriteRenderer:
@@ -1737,12 +1740,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 75838720}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -2.0390005, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 726641315}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &75838722
 SpriteRenderer:
@@ -1809,7 +1812,7 @@ GameObject:
   - component: {fileID: 77493206}
   - component: {fileID: 77493205}
   m_Layer: 0
-  m_Name: SawTrap (19)
+  m_Name: MLSawTrap5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1827,8 +1830,7 @@ Transform:
   m_LocalPosition: {x: -13.369999, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 44924485}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &77493205
@@ -2035,7 +2037,7 @@ GameObject:
   - component: {fileID: 97102716}
   - component: {fileID: 97102715}
   m_Layer: 0
-  m_Name: MagicCoin (9)
+  m_Name: LRCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2401,7 +2403,7 @@ GameObject:
   - component: {fileID: 125008892}
   - component: {fileID: 125008891}
   m_Layer: 0
-  m_Name: SkyPlatform (18)
+  m_Name: UMSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2531,7 +2533,7 @@ GameObject:
   - component: {fileID: 128956455}
   - component: {fileID: 128956454}
   m_Layer: 0
-  m_Name: SkyPlatform (22)
+  m_Name: ULSkyPlatform6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2791,7 +2793,7 @@ GameObject:
   - component: {fileID: 141188761}
   - component: {fileID: 141188760}
   m_Layer: 0
-  m_Name: SkyPlatform (17)
+  m_Name: URSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3059,7 +3061,7 @@ GameObject:
   - component: {fileID: 149520252}
   - component: {fileID: 149520251}
   m_Layer: 0
-  m_Name: SawTrap (5)
+  m_Name: URSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3077,8 +3079,7 @@ Transform:
   m_LocalPosition: {x: 5.83, y: 0.33, z: -0.6745366}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1874917289}
+  m_Children: []
   m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &149520251
@@ -3336,7 +3337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 164697473}
   m_Layer: 0
-  m_Name: SpikeTrap (6)
+  m_Name: LRSpikeTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3509,7 +3510,7 @@ GameObject:
   - component: {fileID: 195032215}
   - component: {fileID: 195032214}
   m_Layer: 0
-  m_Name: MagicCoin (26)
+  m_Name: ULCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3613,7 +3614,7 @@ GameObject:
   m_Component:
   - component: {fileID: 223412354}
   m_Layer: 0
-  m_Name: SpikeTrap (13)
+  m_Name: LRSpikeTrap8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3695,12 +3696,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 244568280}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -8.0390005, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1491034387}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &244568282
 SpriteRenderer:
@@ -3896,7 +3897,7 @@ GameObject:
   - component: {fileID: 250418582}
   - component: {fileID: 250418581}
   m_Layer: 0
-  m_Name: MagicCoin (12)
+  m_Name: MRCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4174,7 +4175,7 @@ GameObject:
   - component: {fileID: 272116470}
   - component: {fileID: 272116469}
   m_Layer: 0
-  m_Name: SkyPlatform (12)
+  m_Name: MRSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4468,7 +4469,7 @@ GameObject:
   - component: {fileID: 297820255}
   - component: {fileID: 297820254}
   m_Layer: 0
-  m_Name: SkyPlatform (10)
+  m_Name: MRSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4598,7 +4599,7 @@ GameObject:
   - component: {fileID: 304208484}
   - component: {fileID: 304208483}
   m_Layer: 0
-  m_Name: MagicCoin (10)
+  m_Name: MRCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4841,7 +4842,7 @@ GameObject:
   - component: {fileID: 321041077}
   - component: {fileID: 321041076}
   m_Layer: 0
-  m_Name: SkyPlatform (4)
+  m_Name: LRSkyPlatform4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5106,7 +5107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 337442882}
   m_Layer: 0
-  m_Name: SpikeTrap (6)
+  m_Name: MMSpikeTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5292,12 +5293,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 358443517}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -4.399, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1646956655}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &358443519
 SpriteRenderer:
@@ -5376,12 +5377,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 363321389}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 0.95099926, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 678238627}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &363321391
 SpriteRenderer:
@@ -5461,11 +5462,11 @@ Transform:
   m_GameObject: {fileID: 364513369}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.00076541904, y: -0.47660002, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.47946534, z: 0.069186}
+  m_LocalPosition: {x: 4.123827, y: -1.211915, z: 0.33298382}
+  m_LocalScale: {x: 0.34593, y: 2.3973267, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 433660860}
+  m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &364513371
 SpriteRenderer:
@@ -5531,7 +5532,7 @@ GameObject:
   - component: {fileID: 380252297}
   - component: {fileID: 380252296}
   m_Layer: 0
-  m_Name: SkyPlatform (5)
+  m_Name: LRSkyPlatform7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5659,7 +5660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 397597647}
   m_Layer: 0
-  m_Name: SpikeTrap (18)
+  m_Name: LRSpikeTrap13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5696,7 +5697,7 @@ GameObject:
   - component: {fileID: 403760945}
   - component: {fileID: 403760944}
   m_Layer: 0
-  m_Name: SawTrap (15)
+  m_Name: MLSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5714,8 +5715,7 @@ Transform:
   m_LocalPosition: {x: -0.39, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 772778850}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &403760944
@@ -5839,7 +5839,7 @@ GameObject:
   - component: {fileID: 433660862}
   - component: {fileID: 433660861}
   m_Layer: 0
-  m_Name: SawTrap (2)
+  m_Name: LMSawTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5857,8 +5857,7 @@ Transform:
   m_LocalPosition: {x: 4.12, y: 1.1710851, z: 0.33298382}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 364513370}
+  m_Children: []
   m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!58 &433660861
@@ -5981,7 +5980,7 @@ GameObject:
   - component: {fileID: 453330058}
   - component: {fileID: 453330060}
   m_Layer: 0
-  m_Name: MagicCoin (2)
+  m_Name: LMCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6526,7 +6525,7 @@ GameObject:
   - component: {fileID: 484991088}
   - component: {fileID: 484991087}
   m_Layer: 0
-  m_Name: SawTrap (22)
+  m_Name: MLSawTrap8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6544,8 +6543,7 @@ Transform:
   m_LocalPosition: {x: -15.429999, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 2108510409}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &484991087
@@ -7175,7 +7173,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.19, y: 4.84, z: -10}
+  m_LocalPosition: {x: 0.19, y: -4.94, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7278,7 +7276,7 @@ GameObject:
   - component: {fileID: 529802638}
   - component: {fileID: 529802637}
   m_Layer: 0
-  m_Name: SawTrap (14)
+  m_Name: UMSawTrap7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7296,8 +7294,7 @@ Transform:
   m_LocalPosition: {x: -17.04, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1566759606}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &529802637
@@ -7557,7 +7554,7 @@ GameObject:
   - component: {fileID: 564644525}
   - component: {fileID: 564644524}
   m_Layer: 0
-  m_Name: SkyPlatform (11)
+  m_Name: MRSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7685,7 +7682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 569711090}
   m_Layer: 0
-  m_Name: SpikeTrap (3)
+  m_Name: LMSpikeTrap4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7871,12 +7868,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 575296796}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -17.329, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2105451057}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &575296798
 SpriteRenderer:
@@ -8073,7 +8070,7 @@ GameObject:
   - component: {fileID: 588500114}
   - component: {fileID: 588500113}
   m_Layer: 0
-  m_Name: SawTrap (10)
+  m_Name: UMSawTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8091,8 +8088,7 @@ Transform:
   m_LocalPosition: {x: -5.03, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 701271860}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &588500113
@@ -8482,7 +8478,7 @@ GameObject:
   - component: {fileID: 615134633}
   - component: {fileID: 615134632}
   m_Layer: 0
-  m_Name: SkyPlatform (1)
+  m_Name: LMSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8610,7 +8606,7 @@ GameObject:
   m_Component:
   - component: {fileID: 616453795}
   m_Layer: 0
-  m_Name: SpikeTrap (10)
+  m_Name: LRSpikeTrap5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9344,7 +9340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 670333106}
   m_Layer: 0
-  m_Name: SpikeTrap (19)
+  m_Name: LRSpikeTrap14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9381,7 +9377,7 @@ GameObject:
   - component: {fileID: 678238629}
   - component: {fileID: 678238628}
   m_Layer: 0
-  m_Name: SawTrap (8)
+  m_Name: UMSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9399,8 +9395,7 @@ Transform:
   m_LocalPosition: {x: 0.94, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 363321390}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &678238628
@@ -9810,12 +9805,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701271859}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -5.0190005, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 588500112}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &701271861
 SpriteRenderer:
@@ -9915,7 +9910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 705471992}
   m_Layer: 0
-  m_Name: SpikeTrap (4)
+  m_Name: LMSpikeTrap5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10089,7 +10084,7 @@ GameObject:
   - component: {fileID: 726641317}
   - component: {fileID: 726641316}
   m_Layer: 0
-  m_Name: SawTrap (11)
+  m_Name: UMSawTrap4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10107,8 +10102,7 @@ Transform:
   m_LocalPosition: {x: -2.05, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 75838721}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &726641316
@@ -10424,12 +10418,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 772778849}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -0.37900066, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 403760943}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &772778851
 SpriteRenderer:
@@ -10496,7 +10490,7 @@ GameObject:
   - component: {fileID: 784861428}
   - component: {fileID: 784861427}
   m_Layer: 0
-  m_Name: SawTrap (1)
+  m_Name: LMSawTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10514,8 +10508,7 @@ Transform:
   m_LocalPosition: {x: -5.86, y: -3.68, z: 0.33298382}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 29536799}
+  m_Children: []
   m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!58 &784861427
@@ -10768,7 +10761,7 @@ GameObject:
   - component: {fileID: 799905472}
   - component: {fileID: 799905471}
   m_Layer: 0
-  m_Name: MagicCoin (22)
+  m_Name: UMCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10874,7 +10867,7 @@ GameObject:
   - component: {fileID: 810116776}
   - component: {fileID: 810116775}
   m_Layer: 0
-  m_Name: SkyPlatform (3)
+  m_Name: LRSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11004,7 +10997,7 @@ GameObject:
   - component: {fileID: 819068266}
   - component: {fileID: 819068265}
   m_Layer: 0
-  m_Name: SkyPlatform (17)
+  m_Name: URSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11271,7 +11264,7 @@ GameObject:
   - component: {fileID: 845411752}
   - component: {fileID: 845411751}
   m_Layer: 0
-  m_Name: MagicCoin (11)
+  m_Name: MRCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11377,7 +11370,7 @@ GameObject:
   - component: {fileID: 865968007}
   - component: {fileID: 865968006}
   m_Layer: 0
-  m_Name: MagicCoin (23)
+  m_Name: UMCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11758,7 +11751,7 @@ GameObject:
   - component: {fileID: 905341053}
   - component: {fileID: 905341052}
   m_Layer: 0
-  m_Name: SawTrap (21)
+  m_Name: MLSawTrap7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11776,8 +11769,7 @@ Transform:
   m_LocalPosition: {x: -11.41, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1968267173}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &905341052
@@ -11901,7 +11893,7 @@ GameObject:
   - component: {fileID: 909322971}
   - component: {fileID: 909322970}
   m_Layer: 0
-  m_Name: SawTrap (13)
+  m_Name: UMSawTrap6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11919,8 +11911,7 @@ Transform:
   m_LocalPosition: {x: -14.06, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1696876011}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &909322970
@@ -12043,7 +12034,7 @@ GameObject:
   - component: {fileID: 923847175}
   - component: {fileID: 923847174}
   m_Layer: 0
-  m_Name: MagicCoin (18)
+  m_Name: URCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12409,7 +12400,7 @@ GameObject:
   - component: {fileID: 943456621}
   - component: {fileID: 943456620}
   m_Layer: 0
-  m_Name: MagicCoin (5)
+  m_Name: LRCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12532,12 +12523,19 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 363321390}
   - {fileID: 678238627}
+  - {fileID: 244568281}
   - {fileID: 1491034387}
+  - {fileID: 701271860}
   - {fileID: 588500112}
+  - {fileID: 75838721}
   - {fileID: 726641315}
+  - {fileID: 2102389210}
   - {fileID: 1137259399}
+  - {fileID: 1696876011}
   - {fileID: 909322969}
+  - {fileID: 1566759606}
   - {fileID: 529802636}
   m_Father: {fileID: 72507768}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -12683,7 +12681,7 @@ GameObject:
   - component: {fileID: 949085938}
   - component: {fileID: 949085937}
   m_Layer: 0
-  m_Name: SkyPlatform (2)
+  m_Name: LMSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13171,7 +13169,7 @@ GameObject:
   - component: {fileID: 1009451780}
   - component: {fileID: 1009451779}
   m_Layer: 0
-  m_Name: MagicCoin (7)
+  m_Name: LRCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13277,7 +13275,7 @@ GameObject:
   - component: {fileID: 1017444289}
   - component: {fileID: 1017444288}
   m_Layer: 0
-  m_Name: SkyPlatform (23)
+  m_Name: ULSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13741,7 +13739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1044231010}
   m_Layer: 0
-  m_Name: SpikeTrap (15)
+  m_Name: LRSpikeTrap10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14037,7 +14035,7 @@ GameObject:
   - component: {fileID: 1091004845}
   - component: {fileID: 1091004844}
   m_Layer: 0
-  m_Name: MagicCoin (20)
+  m_Name: UMCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14567,7 +14565,7 @@ GameObject:
   - component: {fileID: 1137259401}
   - component: {fileID: 1137259400}
   m_Layer: 0
-  m_Name: SawTrap (12)
+  m_Name: UMSawTrap5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14585,8 +14583,7 @@ Transform:
   m_LocalPosition: {x: -11.04, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 2102389210}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1137259400
@@ -14983,7 +14980,7 @@ GameObject:
   - component: {fileID: 1169686498}
   - component: {fileID: 1169686497}
   m_Layer: 0
-  m_Name: MagicCoin (31)
+  m_Name: MLCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15089,7 +15086,7 @@ GameObject:
   - component: {fileID: 1172222254}
   - component: {fileID: 1172222253}
   m_Layer: 0
-  m_Name: SkyPlatform (15)
+  m_Name: MRSkyPlatform7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15233,11 +15230,11 @@ Transform:
   m_GameObject: {fileID: 1180830435}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0032346726, y: 0.275017, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.27286375, z: 0.069186}
+  m_LocalPosition: {x: 7.6138268, y: -2.244915, z: 0.33298382}
+  m_LocalScale: {x: 0.34593, y: 1.3643187, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1291387162}
+  m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1180830437
 SpriteRenderer:
@@ -15303,7 +15300,7 @@ GameObject:
   - component: {fileID: 1185941975}
   - component: {fileID: 1185941974}
   m_Layer: 0
-  m_Name: SkyPlatform (24)
+  m_Name: ULSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15854,13 +15851,21 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 772778850}
   - {fileID: 403760943}
+  - {fileID: 1997855679}
   - {fileID: 1348678162}
+  - {fileID: 358443518}
   - {fileID: 1646956655}
+  - {fileID: 1955345642}
   - {fileID: 2087417707}
+  - {fileID: 44924485}
   - {fileID: 77493204}
+  - {fileID: 575296797}
   - {fileID: 2105451057}
+  - {fileID: 1968267173}
   - {fileID: 905341051}
+  - {fileID: 2108510409}
   - {fileID: 484991086}
   m_Father: {fileID: 1956027963}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15874,7 +15879,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1234168562}
   m_Layer: 0
-  m_Name: SpikeTrap
+  m_Name: LMSpikeTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15963,6 +15968,7 @@ Transform:
   - {fileID: 2074572531}
   - {fileID: 337442882}
   - {fileID: 26925000}
+  - {fileID: 46929818}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1268531465
@@ -16251,7 +16257,7 @@ GameObject:
   - component: {fileID: 1272501188}
   - component: {fileID: 1272501187}
   m_Layer: 0
-  m_Name: SkyPlatform (9)
+  m_Name: LRSkyPlatform5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16518,7 +16524,7 @@ GameObject:
   - component: {fileID: 1275266363}
   - component: {fileID: 1275266362}
   m_Layer: 0
-  m_Name: MagicCoin (32)
+  m_Name: MLCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16624,7 +16630,7 @@ GameObject:
   - component: {fileID: 1282477920}
   - component: {fileID: 1282477919}
   m_Layer: 0
-  m_Name: MagicCoin (4)
+  m_Name: LMCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16766,7 +16772,7 @@ GameObject:
   - component: {fileID: 1289626315}
   - component: {fileID: 1289626314}
   m_Layer: 0
-  m_Name: MagicCoin (8)
+  m_Name: LRCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16873,7 +16879,7 @@ GameObject:
   - component: {fileID: 1291387164}
   - component: {fileID: 1291387163}
   m_Layer: 0
-  m_Name: SawTrap (3)
+  m_Name: LMSawTrap4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16891,8 +16897,7 @@ Transform:
   m_LocalPosition: {x: 7.63, y: -3.62, z: 0.33298382}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1180830436}
+  m_Children: []
   m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!58 &1291387163
@@ -17169,6 +17174,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 36586864}
   - {fileID: 1523024943}
   - {fileID: 164697473}
   - {fileID: 1370375019}
@@ -17199,7 +17205,7 @@ GameObject:
   - component: {fileID: 1295819139}
   - component: {fileID: 1295819138}
   m_Layer: 0
-  m_Name: MagicCoin (14)
+  m_Name: MRCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17305,7 +17311,7 @@ GameObject:
   - component: {fileID: 1296926348}
   - component: {fileID: 1296926347}
   m_Layer: 0
-  m_Name: MagicCoin (19)
+  m_Name: URCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17548,7 +17554,7 @@ GameObject:
   - component: {fileID: 1313166443}
   - component: {fileID: 1313166442}
   m_Layer: 0
-  m_Name: SkyPlatform (7)
+  m_Name: LRSkyPlatform6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17815,7 +17821,7 @@ GameObject:
   - component: {fileID: 1331421164}
   - component: {fileID: 1331421163}
   m_Layer: 0
-  m_Name: MagicCoin (24)
+  m_Name: UMCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18056,7 +18062,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1337488300}
   m_Layer: 0
-  m_Name: SpikeTrap (17)
+  m_Name: LRSpikeTrap12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18093,7 +18099,7 @@ GameObject:
   - component: {fileID: 1348678164}
   - component: {fileID: 1348678163}
   m_Layer: 0
-  m_Name: SawTrap (16)
+  m_Name: MLSawTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18111,8 +18117,7 @@ Transform:
   m_LocalPosition: {x: -2.35, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1997855679}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1348678163
@@ -18235,7 +18240,7 @@ GameObject:
   - component: {fileID: 1353859269}
   - component: {fileID: 1353859268}
   m_Layer: 0
-  m_Name: MagicCoin (21)
+  m_Name: UMCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18342,7 +18347,7 @@ GameObject:
   - component: {fileID: 1355982582}
   - component: {fileID: 1355982581}
   m_Layer: 0
-  m_Name: SawTrap (5)
+  m_Name: MRSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18360,8 +18365,7 @@ Transform:
   m_LocalPosition: {x: 0.12, y: 1.55, z: 0.629622}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 45239450}
+  m_Children: []
   m_Father: {fileID: 1500608613}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 45}
 --- !u!58 &1355982581
@@ -18615,7 +18619,7 @@ GameObject:
   - component: {fileID: 1366723740}
   - component: {fileID: 1366723739}
   m_Layer: 0
-  m_Name: SawTrap (6)
+  m_Name: URSawTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18633,8 +18637,7 @@ Transform:
   m_LocalPosition: {x: 8.81, y: 0.33, z: -0.6745366}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1612541470}
+  m_Children: []
   m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1366723739
@@ -18755,7 +18758,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370375019}
   m_Layer: 0
-  m_Name: SpikeTrap (7)
+  m_Name: LRSpikeTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18791,7 +18794,7 @@ GameObject:
   - component: {fileID: 1372701129}
   - component: {fileID: 1372701128}
   m_Layer: 0
-  m_Name: MagicCoin (25)
+  m_Name: ULCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18931,7 +18934,7 @@ GameObject:
   - component: {fileID: 1396023786}
   - component: {fileID: 1396023785}
   m_Layer: 0
-  m_Name: MagicCoin (33)
+  m_Name: MLCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19035,7 +19038,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1414068726}
   m_Layer: 0
-  m_Name: SpikeTrap (6)
+  m_Name: ULSpikeTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19071,7 +19074,7 @@ GameObject:
   - component: {fileID: 1414241875}
   - component: {fileID: 1414241874}
   m_Layer: 0
-  m_Name: SkyPlatform (6)
+  m_Name: LRSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19202,7 +19205,7 @@ GameObject:
   - component: {fileID: 1420712313}
   - component: {fileID: 1420712314}
   m_Layer: 0
-  m_Name: SawTrap
+  m_Name: LMSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19272,8 +19275,7 @@ Transform:
   m_LocalPosition: {x: -8.838608, y: 1.1710851, z: 0.33298382}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1789962009}
+  m_Children: []
   m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1420712313
@@ -19474,7 +19476,7 @@ GameObject:
   - component: {fileID: 1433117723}
   - component: {fileID: 1433117722}
   m_Layer: 0
-  m_Name: MagicCoin (27)
+  m_Name: ULCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19580,7 +19582,7 @@ GameObject:
   - component: {fileID: 1436089232}
   - component: {fileID: 1436089231}
   m_Layer: 0
-  m_Name: SkyPlatform (14)
+  m_Name: MRSkyPlatform5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19708,7 +19710,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1442556893}
   m_Layer: 0
-  m_Name: SpikeTrap (8)
+  m_Name: LRSpikeTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20285,7 +20287,7 @@ GameObject:
   - component: {fileID: 1470540311}
   - component: {fileID: 1470540310}
   m_Layer: 0
-  m_Name: MagicCoin (30)
+  m_Name: MLCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20392,7 +20394,7 @@ GameObject:
   - component: {fileID: 1491034389}
   - component: {fileID: 1491034388}
   m_Layer: 0
-  m_Name: SawTrap (9)
+  m_Name: UMSawTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20410,8 +20412,7 @@ Transform:
   m_LocalPosition: {x: -8.05, y: -0.3, z: 0.08066039}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 244568281}
+  m_Children: []
   m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1491034388
@@ -20688,7 +20689,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 45239450}
   - {fileID: 1355982580}
+  - {fileID: 24529841}
   - {fileID: 1894439684}
   m_Father: {fileID: 51815803}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -21099,7 +21102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517256984}
   m_Layer: 0
-  m_Name: SpikeTrap (14)
+  m_Name: LRSpikeTrap9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21135,7 +21138,7 @@ GameObject:
   - component: {fileID: 1521161825}
   - component: {fileID: 1521161824}
   m_Layer: 0
-  m_Name: MagicCoin (6)
+  m_Name: LRCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21242,7 +21245,7 @@ GameObject:
   - component: {fileID: 1523024945}
   - component: {fileID: 1523024944}
   m_Layer: 0
-  m_Name: SawTrap (4)
+  m_Name: LRSawTrap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21260,8 +21263,7 @@ Transform:
   m_LocalPosition: {x: -9.923034, y: 2.4146066, z: 1.3920592}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 36586864}
+  m_Children: []
   m_Father: {fileID: 1294091258}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!58 &1523024944
@@ -21788,7 +21790,7 @@ GameObject:
   - component: {fileID: 1545509773}
   - component: {fileID: 1545509772}
   m_Layer: 0
-  m_Name: SkyPlatform (13)
+  m_Name: MRSkyPlatform4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22084,7 +22086,7 @@ GameObject:
   - component: {fileID: 1553376548}
   - component: {fileID: 1553376547}
   m_Layer: 0
-  m_Name: MagicCoin (16)
+  m_Name: URCoin2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22272,7 +22274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1559630618}
   m_Layer: 0
-  m_Name: SpikeTrap (9)
+  m_Name: LRSpikeTrap4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22308,7 +22310,7 @@ GameObject:
   - component: {fileID: 1560036616}
   - component: {fileID: 1560036615}
   m_Layer: 0
-  m_Name: SkyPlatform (25)
+  m_Name: ULSkyPlatform4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22451,12 +22453,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566759605}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -17.029001, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 529802636}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1566759607
 SpriteRenderer:
@@ -22522,7 +22524,7 @@ GameObject:
   - component: {fileID: 1584450133}
   - component: {fileID: 1584450132}
   m_Layer: 0
-  m_Name: SkyPlatform (8)
+  m_Name: LRSkyPlatform8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23198,7 +23200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1612382386}
   m_Layer: 0
-  m_Name: SpikeTrap (7)
+  m_Name: ULSpikeTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23247,12 +23249,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612541469}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 8.821001, y: 4.168, z: -0.6745366}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1366723738}
+  m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1612541471
 SpriteRenderer:
@@ -23318,7 +23320,7 @@ GameObject:
   - component: {fileID: 1616259541}
   - component: {fileID: 1616259540}
   m_Layer: 0
-  m_Name: MagicCoin (28)
+  m_Name: ULCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23689,7 +23691,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1631192592}
   m_Layer: 0
-  m_Name: SpikeTrap (5)
+  m_Name: LMSpikeTrap6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23725,7 +23727,7 @@ GameObject:
   - component: {fileID: 1632100299}
   - component: {fileID: 1632100298}
   m_Layer: 0
-  m_Name: SkyPlatform (20)
+  m_Name: UMSkyPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23986,7 +23988,7 @@ GameObject:
   - component: {fileID: 1646956657}
   - component: {fileID: 1646956656}
   m_Layer: 0
-  m_Name: SawTrap (17)
+  m_Name: MLSawTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24004,8 +24006,7 @@ Transform:
   m_LocalPosition: {x: -4.41, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 358443518}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1646956656
@@ -24360,9 +24361,13 @@ Transform:
   - {fileID: 569711090}
   - {fileID: 705471992}
   - {fileID: 1631192592}
+  - {fileID: 1789962009}
   - {fileID: 1420712312}
+  - {fileID: 29536799}
   - {fileID: 784861426}
+  - {fileID: 364513370}
   - {fileID: 433660860}
+  - {fileID: 1180830436}
   - {fileID: 1291387162}
   m_Father: {fileID: 268209315}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -24651,12 +24656,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696876010}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -14.049001, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 909322969}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1696876012
 SpriteRenderer:
@@ -24722,7 +24727,7 @@ GameObject:
   - component: {fileID: 1698383058}
   - component: {fileID: 1698383057}
   m_Layer: 0
-  m_Name: SkyPlatform (26)
+  m_Name: ULSkyPlatform5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24989,7 +24994,7 @@ GameObject:
   - component: {fileID: 1719194438}
   - component: {fileID: 1719194437}
   m_Layer: 0
-  m_Name: MagicCoin (13)
+  m_Name: MRCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25230,7 +25235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1728778856}
   m_Layer: 0
-  m_Name: SpikeTrap (12)
+  m_Name: LRSpikeTrap7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26225,11 +26230,11 @@ Transform:
   m_GameObject: {fileID: 1789962008}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.5967216, y: -0.0022170066, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.6404699, z: 0.069186}
+  m_LocalPosition: {x: -5.8549995, y: 1.1600001, z: 0.33298382}
+  m_LocalScale: {x: 0.34592995, y: 3.20235, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1420712312}
+  m_Father: {fileID: 1676956092}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1789962010
 SpriteRenderer:
@@ -26606,7 +26611,7 @@ GameObject:
   - component: {fileID: 1829850101}
   - component: {fileID: 1829850100}
   m_Layer: 0
-  m_Name: SawTrap (7)
+  m_Name: URSawTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26624,8 +26629,7 @@ Transform:
   m_LocalPosition: {x: 11.35, y: 0.33, z: -0.6745366}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 71784951}
+  m_Children: []
   m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &1829850100
@@ -26748,7 +26752,7 @@ GameObject:
   - component: {fileID: 1834269857}
   - component: {fileID: 1834269856}
   m_Layer: 0
-  m_Name: MagicCoin (17)
+  m_Name: URCoin3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27552,12 +27556,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1874917288}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 5.8409996, y: 4.168, z: -0.6745366}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 149520250}
+  m_Father: {fileID: 51348992}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1874917290
 SpriteRenderer:
@@ -27753,7 +27757,7 @@ GameObject:
   - component: {fileID: 1890665177}
   - component: {fileID: 1890665176}
   m_Layer: 0
-  m_Name: SkyPlatform (17)
+  m_Name: URSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27884,7 +27888,7 @@ GameObject:
   - component: {fileID: 1894439686}
   - component: {fileID: 1894439685}
   m_Layer: 0
-  m_Name: SawTrap (6)
+  m_Name: MRSawTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27902,8 +27906,7 @@ Transform:
   m_LocalPosition: {x: 5, y: 1.55, z: 0.629622}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 24529841}
+  m_Children: []
   m_Father: {fileID: 1500608613}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 135}
 --- !u!58 &1894439685
@@ -28739,7 +28742,7 @@ GameObject:
   - component: {fileID: 1912443764}
   - component: {fileID: 1912443763}
   m_Layer: 0
-  m_Name: SkyPlatform (10)
+  m_Name: LRSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28903,7 +28906,7 @@ GameObject:
   - component: {fileID: 1927400296}
   - component: {fileID: 1927400295}
   m_Layer: 0
-  m_Name: SkyPlatform (19)
+  m_Name: UMSkyPlatform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29031,7 +29034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1950031587}
   m_Layer: 0
-  m_Name: SpikeTrap (2)
+  m_Name: LMSpikeTrap3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29067,7 +29070,7 @@ GameObject:
   - component: {fileID: 1954939966}
   - component: {fileID: 1954939965}
   m_Layer: 0
-  m_Name: SkyPlatform (16)
+  m_Name: MRSkyPlatform6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29210,12 +29213,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1955345641}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -6.309, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2087417707}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1955345643
 SpriteRenderer:
@@ -29541,12 +29544,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1968267172}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -11.399, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 905341051}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1968267174
 SpriteRenderer:
@@ -29877,7 +29880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1993861248}
   m_Layer: 0
-  m_Name: SpikeTrap (11)
+  m_Name: LRSpikeTrap6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29926,12 +29929,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1997855678}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -2.3390007, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1348678162}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1997855680
 SpriteRenderer:
@@ -29995,7 +29998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2010004407}
   m_Layer: 0
-  m_Name: SpikeTrap (1)
+  m_Name: LMSpikeTrap2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30159,7 +30162,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2028324208}
   m_Layer: 0
-  m_Name: SpikeTrap (20)
+  m_Name: LRSpikeTrap15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30462,7 +30465,7 @@ GameObject:
   - component: {fileID: 2045429995}
   - component: {fileID: 2045429997}
   m_Layer: 0
-  m_Name: MagicCoin
+  m_Name: LMCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30568,7 +30571,7 @@ GameObject:
   - component: {fileID: 2047533107}
   - component: {fileID: 2047533109}
   m_Layer: 0
-  m_Name: SkyPlatform
+  m_Name: LMSkyPlatform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31225,7 +31228,7 @@ GameObject:
   - component: {fileID: 2069112836}
   - component: {fileID: 2069112835}
   m_Layer: 0
-  m_Name: MagicCoin (29)
+  m_Name: ULCoin5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31736,7 +31739,7 @@ GameObject:
   - component: {fileID: 2087417709}
   - component: {fileID: 2087417708}
   m_Layer: 0
-  m_Name: SawTrap (18)
+  m_Name: MLSawTrap4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31754,8 +31757,7 @@ Transform:
   m_LocalPosition: {x: -6.32, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1955345642}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &2087417708
@@ -32074,7 +32076,7 @@ GameObject:
   - component: {fileID: 2098771715}
   - component: {fileID: 2098771717}
   m_Layer: 0
-  m_Name: MagicCoin (3)
+  m_Name: LMCoin4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32214,7 +32216,7 @@ GameObject:
   - component: {fileID: 2102270455}
   - component: {fileID: 2102270454}
   m_Layer: 0
-  m_Name: MagicCoin (15)
+  m_Name: URCoin1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32333,12 +32335,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2102389209}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -11.029, y: 3.538, z: 0.08066039}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1137259399}
+  m_Father: {fileID: 946342248}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &2102389211
 SpriteRenderer:
@@ -32405,7 +32407,7 @@ GameObject:
   - component: {fileID: 2105451059}
   - component: {fileID: 2105451058}
   m_Layer: 0
-  m_Name: SawTrap (20)
+  m_Name: MLSawTrap6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32423,8 +32425,7 @@ Transform:
   m_LocalPosition: {x: -17.34, y: -2.15, z: 0.07811005}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 575296797}
+  m_Children: []
   m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!58 &2105451058
@@ -32708,12 +32709,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2108510408}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.7676, y: -0.0022, z: 0}
-  m_LocalScale: {x: 0.069186, y: 0.81128323, z: 0.069186}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -15.418999, y: 1.6880007, z: 0.07811005}
+  m_LocalScale: {x: 0.3459301, y: 4.056417, z: 0.34593}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 484991086}
+  m_Father: {fileID: 1233655482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &2108510410
 SpriteRenderer:
@@ -32777,7 +32778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111925405}
   m_Layer: 0
-  m_Name: SpikeTrap (16)
+  m_Name: LRSpikeTrap11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33022,12 +33023,9 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 2106803753}
   - {fileID: 1904217983}
-  - {fileID: 1264429711}
   - {fileID: 2092183634}
   - {fileID: 732899450}
-  - {fileID: 959071056}
-  - {fileID: 46929818}
-  - {fileID: 1236972457}
+  - {fileID: 1264429711}
   - {fileID: 268209315}
   - {fileID: 1386772570}
   - {fileID: 51815803}
@@ -33035,3 +33033,5 @@ SceneRoots:
   - {fileID: 72507768}
   - {fileID: 2099046752}
   - {fileID: 1956027963}
+  - {fileID: 959071056}
+  - {fileID: 1236972457}
