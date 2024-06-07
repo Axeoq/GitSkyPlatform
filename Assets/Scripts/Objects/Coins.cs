@@ -8,7 +8,7 @@ public class Coins : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.Instance.AddCoins();
+            CoinsController.Instance.AddCoins();
             Destroy(gameObject);
         }
     }

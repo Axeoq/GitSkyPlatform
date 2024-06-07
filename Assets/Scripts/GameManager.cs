@@ -1,10 +1,14 @@
+using Cinemachine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    private static uint coinsCollected;
+    [SerializeField] private GameObject player;
+    private GameObject currentPlayer;
+    private Transform spawnPoint;
+    private CinemachineVirtualCamera virtualCamera;
 
     private static GameManager _instance;
     public static GameManager Instance
@@ -22,26 +26,31 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        if (_instance != null && _instance != this)
-        {
-            Destroy(gameObject);
-            return;
-        }
+        //if (_instance != null && _instance != this)
+        //{
+        //    Destroy(gameObject);
+        //    return;
+        //}
 
         _instance = this;
 
-        DontDestroyOnLoad(gameObject);
+        //DontDestroyOnLoad(gameObject);
 
         Physics2D.gravity = new Vector2(0, -60f);
+
+        virtualCamera = GameObject.Find("Virtual Camera").GetComponent<CinemachineVirtualCamera>();
+
+        spawnPoint = GameObject.Find("SpawnPoint").transform;
+        currentPlayer = Instantiate(player, spawnPoint.position, spawnPoint.rotation);
+        virtualCamera.Follow = currentPlayer.transform;
     }
 
-    public void AddCoins()
+    public void RespawnPlayer()
     {
-        coinsCollected++;
-    }
+        Destroy(currentPlayer);
 
-    public uint GetCoins()
-    {
-        return coinsCollected;
+        var newPlayer = Instantiate(player, spawnPoint.position, spawnPoint.rotation);
+        virtualCamera.Follow = newPlayer.transform;
+        currentPlayer = newPlayer;
     }
 }

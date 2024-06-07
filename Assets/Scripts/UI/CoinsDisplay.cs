@@ -16,6 +16,8 @@ public class CoinsDisplay : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        txtCoins.text = GameManager.Instance.GetCoins().ToString();
+        var currentCoins = CoinsController.Instance.GetCoins().ToString();
+        var maxCoins = CoinsController.Instance.GetMaxCoins().ToString();
+        txtCoins.text = "Coins: " + currentCoins + "/" + maxCoins;
     }
 }
