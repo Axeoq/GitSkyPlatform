@@ -11,6 +11,18 @@ public class groundCheck : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Finish")) return;
 
+        CheckTrigger(collision);
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Finish")) return;
+
+        CheckTrigger(collision);
+    }
+
+    private void CheckTrigger(Collider2D collision)
+    {
         isGrounded = collision != null && (((1 << collision.gameObject.layer) & platformLayer) != 0);
     }
 
