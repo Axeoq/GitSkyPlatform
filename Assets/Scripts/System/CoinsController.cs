@@ -28,6 +28,7 @@ public class CoinsController : MonoBehaviour
 
     public void AddCoins()
     {
+        AudioManager.instance.PlaySFX("Collect");
         coinsCollected++;
         CheckCoins();
     }

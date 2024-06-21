@@ -21,6 +21,7 @@ public class PlayerJump : MonoBehaviour
         if (!gc.IsGrounded()) return;
 
         anim.SetTrigger("jump");
+        AudioManager.instance.PlaySFX("Jump");
 
         Vector2 velocity = rb2d.velocity;
         velocity.y = jumpPower;

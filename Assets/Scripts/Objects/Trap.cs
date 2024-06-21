@@ -8,6 +8,7 @@ public class Trap : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            AudioManager.instance.PlaySFX("Death");
             GameManager.Instance.RespawnPlayer();
         }
     }
