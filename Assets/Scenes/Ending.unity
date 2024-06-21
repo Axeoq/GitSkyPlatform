@@ -529,7 +529,7 @@ MonoBehaviour:
     SOUND
 
     Kezia
-    Pricilia Ong
+    Pricillia Ong
 
     2602065130'
   m_isRightToLeft: 0
@@ -935,7 +935,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1679749967
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -950,14 +950,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Music: {fileID: 455732624}
   SFX: {fileID: 1773593998}
+  SFXLoop: {fileID: 0}
   mainMenu: {fileID: 0}
   inGame: {fileID: 8300000, guid: 39b45f47f64e1e94ea686dd1555103fe, type: 3}
   ending: {fileID: 8300000, guid: 5c509bbe23dd40c4eb7880dc4bb497d8, type: 3}
   pause: {fileID: 8300000, guid: 4012e47d5866dd24a9df0199c4388a40, type: 3}
+  walk: {fileID: 0}
   jump: {fileID: 8300000, guid: 7bee5fa4cd54b6b4b9f5bf7898b77bc0, type: 3}
   buttonClick: {fileID: 8300000, guid: 54afd5230d4533e4281bf3797dc57f54, type: 3}
   collect: {fileID: 0}
   death: {fileID: 8300000, guid: d11d9a1f70a91a04280ed206c8601edd, type: 3}
+  portal: {fileID: 0}
   popupMenu: {fileID: 8300000, guid: 6b24d1a1728628a42baa3c8ecac75921, type: 3}
   sliderClick: {fileID: 8300000, guid: 93f4b5056bd07d8458b7a3fb30284a5d, type: 3}
 --- !u!4 &1679749968

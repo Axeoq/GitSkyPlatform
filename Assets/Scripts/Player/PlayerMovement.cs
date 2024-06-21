@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb2d;
     private SpriteRenderer sr;
     private Animator animator;
+    private groundCheck gc;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        gc = transform.Find("groundCheck").GetComponent<groundCheck>();
     }
 
 
@@ -25,6 +27,12 @@ public class PlayerMovement : MonoBehaviour
             sr.flipX = Direction < 0f;
 
         animator.SetFloat("Direction", Mathf.Abs(Direction));
+
+        if (!gc.IsGrounded() || Direction == 0)
+            AudioManager.instance.StopSFXLoop();
+        else
+            AudioManager.instance.PlaySFXLoop("Walk");
+
 
         Vector2 velocity = rb2d.velocity;
         velocity.x = Direction * speed;

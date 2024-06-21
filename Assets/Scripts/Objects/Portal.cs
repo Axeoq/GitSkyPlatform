@@ -24,7 +24,7 @@ public class Portal : MonoBehaviour
         {
             Debug.LogError("Next level scene is empty");
         }
-
+        AudioManager.instance.PlaySFX("Portal");
         SceneManager.LoadScene(nextScene);
     }
 

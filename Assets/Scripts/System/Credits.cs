@@ -15,7 +15,7 @@ public class Credits : MonoBehaviour
     IEnumerator ReturnToMainMenu()
     {
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
-        yield return new WaitForSeconds(5f);
+        //yield return new WaitForSeconds(5f);
         SceneManager.LoadScene("Menu");
     }
 }

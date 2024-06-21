@@ -9,16 +9,19 @@ public class AudioManager : MonoBehaviour
     [Header("--Audio Source--")]
     [SerializeField] AudioSource Music;
     [SerializeField] AudioSource SFX;
+    [SerializeField] AudioSource SFXLoop;
 
     [Header("--Audio Clip--")]
     public AudioClip mainMenu;
     public AudioClip inGame;
     public AudioClip ending;
     public AudioClip pause;
+    public AudioClip walk;
     public AudioClip jump;
     public AudioClip buttonClick;
     public AudioClip collect;
     public AudioClip death;
+    public AudioClip portal;
     public AudioClip popupMenu;
     public AudioClip sliderClick;
 
@@ -45,6 +48,7 @@ public class AudioManager : MonoBehaviour
 
     private void SceneChanged(Scene current, Scene next)
     {
+        SFXLoop.Stop();
         switch (next.name)
         {
             case "Menu":
@@ -94,6 +98,10 @@ public class AudioManager : MonoBehaviour
                 audioClip = death;
                 break;
 
+            case "Portal":
+                audioClip = portal;
+                break;
+
             case "PopupMenu":
                 audioClip = popupMenu;
                 break;
@@ -106,7 +114,33 @@ public class AudioManager : MonoBehaviour
                 Debug.LogError("SFX is invalid");
                 return;
         }
+        SFX.clip = audioClip;
+        SFX.Play();
+    }
 
-        SFX.PlayOneShot(audioClip);
+    public void PlaySFXLoop(string clip)
+    {
+        if (SFXLoop.isPlaying) return;
+        SFXLoop.Stop();
+
+        AudioClip audioClip;
+        switch (clip)
+        {
+            case "Walk":
+                audioClip = walk;
+                break;
+
+            default:
+                Debug.LogError("SFX is invalid");
+                return;
+        }
+
+        SFXLoop.clip = audioClip;
+        SFXLoop.Play();
+    }
+
+    public void StopSFXLoop()
+    {
+        SFXLoop.Stop();
     }
 }
